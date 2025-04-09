@@ -1,6 +1,6 @@
 {
-  "internal": true,
-  "main": "../src/mdx.js",
-  "type": "module",
-  "types": "../src/mdx.d.ts"
+	"internal": true,
+	"main": "../src/mdx.js",
+	"type": "module",
+	"types": "../src/mdx.d.ts"
 }
